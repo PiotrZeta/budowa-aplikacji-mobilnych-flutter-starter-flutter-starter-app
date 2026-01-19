@@ -26,7 +26,7 @@ Prosta aplikacja "Geo Journal" w Flutter (Dart) – **3–4 widoki**, **GPS + ap
 ## Uruchomienie
 
 1. Zainstaluj Flutter SDK oraz Android Studio (emulator) lub podepnij telefon.
-2. W katalogu projektu:
+2. W katalogu projektu:.
 
 ```bash
 flutter pub get
