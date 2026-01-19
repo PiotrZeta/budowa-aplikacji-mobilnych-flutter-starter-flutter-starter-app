@@ -10,7 +10,7 @@
 
 ### Hybrydowe aplikacje mobilne vs. natywne aplikacje mobilne
 
-**Zagadnienie:**  
+**Zagadnienie:**  z
 Aplikacje **natywne** są tworzone osobno dla każdej platformy (Android/iOS) w jej typowym ekosystemie (np. Kotlin/Java w Androidzie, Swift/Objective‑C w iOS). Aplikacje **hybrydowe / cross‑platform** wykorzystują jedną bazę kodu do budowania wersji na różne platformy (np. Flutter, React Native, NativeScript). Różnice w praktyce dotyczą architektury, wydajności, dostępu do funkcji urządzenia i kosztów.
 
 **Aplikacje natywne**:
