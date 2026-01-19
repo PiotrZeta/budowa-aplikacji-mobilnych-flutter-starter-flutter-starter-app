@@ -1,6 +1,6 @@
 # Geo Memoir (Flutter)
 
-Prosta aplikacja "Geo Journal" w Flutter (Dart) – **3–4 widoki**, **GPS + aparat/galeria**, oraz **komunikacja z API (GET/POST)**.
+ aplikacja "Geo Journal" w Flutter (Dart) – **3–4 widoki**, **GPS + aparat/galeria**, oraz **komunikacja z API (GET/POST)**.
 
 ## Funkcje (wymagania z zadania)
 
@@ -25,8 +25,7 @@ Prosta aplikacja "Geo Journal" w Flutter (Dart) – **3–4 widoki**, **GPS + ap
 
 ## Uruchomienie
 
-1. Zainstaluj Flutter SDK oraz Android Studio (emulator) lub podepnij telefon.
-2. W katalogu projektu:.
+1. Zainstaluj Flutter SDK oraz Android Studio.
 
 ```bash
 flutter pub get
@@ -40,7 +39,7 @@ flutter doctor
 flutter devices
 ```
 
-## Testy lokalne (co pokazać na zaliczeniu)
+## Testy lokalne
 
 1. **Dodaj wpis** → użyj przycisku **"Pobierz lokalizację"** (GPS) i/lub **"Zrób zdjęcie"**.
 2. Zapisz wpis → wróć do listy → wpis ma datę i znacznik lokalizacji.
@@ -50,15 +49,6 @@ flutter devices
 6. Wyłącz internet → spróbuj pobrać z API w ustawieniach → pokaże się błąd.
 7. Zablokuj lokalizację (uprawnienia) → spróbuj pobrać GPS → pokaże się komunikat.
 
-## Zrzuty ekranów (miejsce na screeny)
-
-Wklej screeny do folderu `screenshots/` i uzupełnij poniżej:
-
-- `screenshots/01_list.png` – lista wpisów
-- `screenshots/02_add_gps.png` – formularz + pobieranie GPS
-- `screenshots/03_detail.png` – szczegóły wpisu
-- `screenshots/04_map.png` – widok mapy
-- `screenshots/05_error.png` – błąd (np. brak internetu lub brak uprawnień)
 
 ## Propozycja minimum 3 commitów
 
