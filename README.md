@@ -2,7 +2,7 @@
 
  aplikacja "Geo Journal" w Flutter (Dart) – **3–4 widoki**, **GPS + aparat/galeria**, oraz **komunikacja z API (GET/POST)**.
 
-## Funkcje (wymagania z zadania)
+## Funkcje
 
 - **Widoki (4):**
   - **Oś czasu / Lista wpisów** – tytuł, data, znacznik lokalizacji, status synchronizacji.
